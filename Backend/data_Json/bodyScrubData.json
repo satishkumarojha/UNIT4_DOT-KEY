@@ -1,0 +1,55 @@
+[
+  {
+    "DispName": "Vitamin C & Avalon Lemon",
+    "dNameSub": "Sugar Body Scrub",
+    "name": "VITAMIN C AVALON LEMON SUGAR BODY SCRUB",
+    "price": 545.0,
+    "size": 200,
+    "discription": "Time to get flirty in the shower! A slushy sugar scrub with Avalon Lemon & Verbena to gently exfoliate dead skin cells for softer skin that glows.",
+    "featurHead": "Feel the Love",
+    "featuresImg": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Brightens_Skin.png?v=1636458023",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Exfoliates_Skin.png?v=1636458477",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Breaks_Down_Cellulite.png?v=1636458132"
+    ],
+    "features": ["Brightens Skin", "Exfoliates Skin", "Breaks Down Cellulite"],
+    "promo0": "Made With Love",
+    "promo2": "Slather not Slurp",
+    "promo1": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5-Lemon-Scrub_28f524ab-b639-4447-8eb7-9c6d0b481c52.png?v=1636540893",
+    "promo3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/lemon_scrub_1.jpg?v=1636541769",
+    "review": 20,
+    "prodImgUrl": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_2_1800x1800.jpg?v=1641964139",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_2_1800x1800.jpg?v=1641964139",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_2_1800x1800.jpg?v=1641964139",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_2_1800x1800.jpg?v=1641964139"
+    ]
+  },
+  {
+    "DispName": "Damask Rose & Lavender",
+    "dNameSub": "Gel Body Scrub",
+    "name": "DAMASK ROSE GEL BODY SCRUB ",
+    "price": 545.0,
+    "size": 200,
+    "review": 19,
+    "discription": "A soft gel scrub lovingly curated with Damask Rose, French Lavender Oil & crushed walnut shells to buff away dead skin cells for smooth, soft & rosy bright skin.",
+    "featurHead": "Feel the Love",
+    "featuresImg": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Adds_Dewey_Glow.png?v=1636458476",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Exfoliates_Skin.png?v=1636458477",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Calms_Soothes.png?v=1636458476"
+    ],
+    "features": ["Adds a Dewy Glow", "Exfoliates Skin", "Calms And Soothes"],
+    "promo0": "Made With Love",
+    "promo2": "Slather not Slurp",
+    "promo1": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/4-Rose-Scrub_a089f825-eea5-44f6-96ef-bf606c830d17.png?v=1636541997",
+    "promo3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/rose_scrub.jpg?v=1636541859",
+
+    "prodImgUrl": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_1_1800x1800.jpg?v=1644862614",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_1_1800x1800.jpg?v=1644862614",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_1_1800x1800.jpg?v=1644862614",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_1_1800x1800.jpg?v=1644862614"
+    ]
+  }
+]

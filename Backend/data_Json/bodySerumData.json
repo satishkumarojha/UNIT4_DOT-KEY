@@ -1,0 +1,56 @@
+[
+  {
+    "DispName": "Damask Rose & Lavender",
+    "dNameSub": "Hydrating Hyaluronic Body Lotion",
+    "name": "ROSE HYDRATING HYALURONIC BODY LOTION (DAMASK ROSE & LAVENDER)",
+    "price": 595.0,
+    "size": 300,
+    "review": 23,
+    "discription": "With nourishing Damask Rose oil, lavender & hyaluronic acid, this body serum lotion spreads evenly for hydrated, soft & dewy glowing skin.",
+    "featurHead": "Feel the Love",
+    "featuresImg": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Hydrates_Skin.png?v=1636459852",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Reduces_Dark_Spots.png?v=1636459850",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Fades_Fine_Lines_Wrinkles.png?v=1636459850"
+    ],
+    "features": ["Intensely moisturizes", "Evens SKIN TONE", "Reduces redness"],
+    "promo0": "Made With Love",
+    "promo2": "Slather not Slurp",
+    "promo1": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/6-Rose-Serum_e0b52d98-eb8c-4a7e-84b0-2970679d63c2.png?v=1636540251",
+    "promo3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Artboard_1-6_6.jpg?v=1636540346",
+
+    "prodImgUrl": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_f9452183-3e22-4fdc-9ef6-3cc2adab66c6_1800x1800.jpg?v=1644862572",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_1_9e39328e-9390-4fab-b1c8-9a33b778c3c5_1800x1800.jpg?v=1644862572",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_16463eb2-7c5f-4f69-85ff-13e94417d461_1800x1800.jpg?v=1644862572",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_1_81c8c36d-146a-44d9-a88f-43a22307d808_1800x1800.jpg?v=1644862572"
+    ]
+  },
+  {
+    "DispName": "Avalon Lemon & Verbena",
+    "dNameSub": "Vitamin C Glow Body Lotion",
+    "name": "VITAMIN C GLOW BODY LOTION (AVALON LEMON & VERBENA) ",
+    "price": 595.0,
+    "size": 300,
+    "review": 13,
+    "discription": "Citrusy & lightweight body serum lotion with 3 types of vitamin C that hydrates & tones for soft, bright & glowing skin. ",
+    "featurHead": "Feel the Love",
+    "featuresImg": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Hydrates_Skin.png?v=1636459852",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Adds_Natural_Glow.png?v=1636460322",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Calms_Soothes.png?v=1636458476"
+    ],
+    "features": ["Hydrates Skin", "Adds Natural Glow", "Calm & Soothes Skin"],
+    "promo0": "Made With Love",
+    "promo2": "Slather not Slurp",
+    "promo1": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/7-Lemon-Serum_bbf78342-bda8-4ac3-bc9b-42b4bb036a6c.png?v=1636543472",
+    "promo3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/lemon_serum_lotion.jpg?v=1636543398",
+
+    "prodImgUrl": [
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_4_1800x1800.jpg?v=1641964129",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_4_1800x1800.jpg?v=1641964129",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_1800x1800.jpg?v=1641964129",
+      "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_4_1800x1800.jpg?v=1641964129"
+    ]
+  }
+]
