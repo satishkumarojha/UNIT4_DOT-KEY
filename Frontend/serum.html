@@ -10,6 +10,7 @@
     <script src="https://kit.fontawesome.com/193a1c0cfc.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="Styles/navBar.css">
     <link rel="stylesheet" href="Styles/footer.css">
+    <link rel="stylesheet" href="Styles/showMenuBar.css">
 </head>
 
 <body>
@@ -22,6 +23,7 @@
                 <!-- for cart -->
             </div>
         </nav>
+        <div id="newDrawer"></div> <!-- menuBar appended hare -->
         <div id="main">
             <!-- for body part -->
             <div><img
@@ -39,8 +41,17 @@
             <div id="footer">
                 <!-- for bottom lane of page -->
             </div>
+
         </div>
 </body>
 
 </html>
 <script type="module" src="Scripts/serum.js"></script>
+<script type="module">
+    import { showMenuBar } from "./Componentes/showMenuBar.js";
+  
+    document.getElementById("newDrawer").innerHTML = showMenuBar();
+    // console.log(showMenuBar());
+  </script>
+  
+  <script src="Scripts/menuBarFunc.js"></script>

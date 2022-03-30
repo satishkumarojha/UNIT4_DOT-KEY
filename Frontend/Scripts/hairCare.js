@@ -628,7 +628,24 @@ import {
   mainDisp,
 } from "./main.js";
 let parent = document.getElementById("product-grid");
-createProductCard(product_data, parent);
+// createProductCard(product_data, parent);
+
+
+let url="http://localhost:4000/haircare";
+
+let data=async()=>{
+
+   try {
+    let res=await fetch(url)
+    let Data=await res.json()
+    createProductCard(Data, parent);
+    console.log(Data)
+   } catch (err) {
+       console.log(err)
+   }
+
+}
+data()
 
 import { navBar, navInt, navcar } from "../Componentes/navBar.js";
 import { footer } from "../Componentes/footer.js";
