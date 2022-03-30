@@ -1,6 +1,6 @@
 const mongoose=require("mongoose")
 
-const bodycareSchema=new mongoose.Schema(
+const comboSchema=new mongoose.Schema(
     {
         DispName: {type:String},
         dNameSub:{type:String},
@@ -23,4 +23,4 @@ const bodycareSchema=new mongoose.Schema(
         versionKey:false
     })
 
-    module.exports=mongoose.model("bodycare",bodycareSchema)
+    module.exports=mongoose.model("combo",comboSchema)
